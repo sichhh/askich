@@ -1,0 +1,15 @@
+/home/sich/hello/bin/Debug/net8.0/hello
+/home/sich/hello/bin/Debug/net8.0/hello.deps.json
+/home/sich/hello/bin/Debug/net8.0/hello.runtimeconfig.json
+/home/sich/hello/bin/Debug/net8.0/hello.dll
+/home/sich/hello/bin/Debug/net8.0/hello.pdb
+/home/sich/hello/obj/Debug/net8.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/sich/hello/obj/Debug/net8.0/hello.AssemblyInfoInputs.cache
+/home/sich/hello/obj/Debug/net8.0/hello.AssemblyInfo.cs
+/home/sich/hello/obj/Debug/net8.0/hello.csproj.CoreCompileInputs.cache
+/home/sich/hello/obj/Debug/net8.0/hello.sourcelink.json
+/home/sich/hello/obj/Debug/net8.0/hello.dll
+/home/sich/hello/obj/Debug/net8.0/refint/hello.dll
+/home/sich/hello/obj/Debug/net8.0/hello.pdb
+/home/sich/hello/obj/Debug/net8.0/hello.genruntimeconfig.cache
+/home/sich/hello/obj/Debug/net8.0/ref/hello.dll
